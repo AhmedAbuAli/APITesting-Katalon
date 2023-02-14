@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the get request for retrieving the list of current users</description>
+   <name>TC1 - GetUserList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd1f5c3-67ad-4633-888b-4f54b26b669d</testCaseGuid>
+</TestCaseEntity>
